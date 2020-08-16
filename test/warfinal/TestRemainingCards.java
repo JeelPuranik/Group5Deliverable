@@ -55,7 +55,7 @@ public class TestRemainingCards {
 
     
     public void testEmainingCardsBoundary() {
-        System.out.println("emainingCards");
+        System.out.println("RemainingCards");
         Deck instance = new Deck();
         int expResult = 26;
         int result = instance.emainingCards();
